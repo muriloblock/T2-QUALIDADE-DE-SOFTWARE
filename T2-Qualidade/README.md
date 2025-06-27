@@ -92,7 +92,3 @@ T2-Qualidade/
 2. **TimeoutException**: O site pode estar lento, verifique sua conexão de internet
 3. **Elemento não encontrado**: O site pode ter mudado, os testes podem precisar de atualização
 4. **Erro de Java**: Certifique-se de que Java 17+ está instalado e configurado
-
-## Autor
-
-Projeto desenvolvido para testes de qualidade de software da RWTH Aachen University.
